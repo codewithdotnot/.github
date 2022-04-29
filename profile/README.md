@@ -1,7 +1,7 @@
-## Hi there 👋
+# Code with .NOT 
 
 <!--
-
+👋
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
