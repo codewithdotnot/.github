@@ -1,6 +1,6 @@
 # Code with .NOT 
 
-![Code with .NOT logo](./logo.png)
+![Code with .NOT logo](logo.png)
 
 <!--
 👋
